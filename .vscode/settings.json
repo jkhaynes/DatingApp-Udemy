@@ -3,8 +3,10 @@
         "HMACSHA",
         "alertify",
         "alertifyjs",
+        "aspnetcore",
         "bs",
         "dropdown",
+        "dtos",
         "module",
         "titlecase"
     ]
