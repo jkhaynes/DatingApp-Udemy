@@ -8,6 +8,7 @@
         "dropdown",
         "dtos",
         "module",
+        "tabset",
         "titlecase"
     ]
 }
