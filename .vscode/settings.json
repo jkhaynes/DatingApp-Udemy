@@ -1,6 +1,7 @@
 {
     "cSpell.words": [
         "Cloudinary",
+        "Datepicker",
         "HMACSHA",
         "alertify",
         "alertifyjs",
@@ -9,6 +10,7 @@
         "dropdown",
         "dtos",
         "glyphicon",
+        "minlength",
         "module",
         "nameid",
         "tabset",
